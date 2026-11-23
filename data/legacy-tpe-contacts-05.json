@@ -1,0 +1,110 @@
+[
+  {
+    "city": "Lille (Nord)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Lille",
+    "type": "TPE – relais du TJ",
+    "email": "accueil1.tj-lille@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Lille (Nord)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Lille",
+    "type": "TPE – relais du TJ",
+    "email": "tj1-lille@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Saint-Omer (Pas de Calais)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Saint-Omer",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-st-omer@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Bourgoin-Jallieu (Isère)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Bourgoin-Jallieu",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-bourgoin-jallieu@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Valence (Drôme)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Valence",
+    "type": "TPE – relais du TJ",
+    "email": "tgi-valence@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Brive-la-Gaillarde (Corrèze)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Brive-la-Gaillarde",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.covid-19.tj-brive-la-gaillarde@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Guéret (Creuse)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Guéret",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.covid-19.tj-gueret@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Limoges (Haute-vienne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Limoges",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.covid-19.tj-limoges@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Tulle (Corrèze)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Tulle",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.covid-19.tj-tulle@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Recours et demandes des justiciables",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Recours et demandes des justiciables",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.covid-19.ca-lyon@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Metz (Moselle)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Metz",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-metz@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Sarreguemines (Moselle)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Sarreguemines",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-sarreguemines@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  }
+]
