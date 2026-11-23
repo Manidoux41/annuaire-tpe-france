@@ -6,9 +6,9 @@ Application web statique en HTML, CSS et JavaScript.
 
 - 156 tribunaux pour enfants récupérés en direct depuis l'API officielle de l'Annuaire de l'administration (DILA / Service Public).
 - Les adresses électroniques actuellement publiées sur les fiches officielles restent dans la colonne « Courriel publié actuellement ».
-- Les anciennes adresses de la liste Justice.fr du 23 avril 2020 sont rapprochées par ville et présentées séparément comme « Historique 2020 · à confirmer ».
+- 121 anciennes lignes de contact TPE issues de la liste Justice.fr du 23 avril 2020 ont été reprises : 102 adresses sont rapprochées de 90 tribunaux actuels ; 16 contacts restent dans une archive séparée faute de rapprochement fiable ; les lignes mal formées ou hors TPE sont écartées du tableau principal.\n- Les adresses historiques sont présentées séparément comme « Historique 2020 · à confirmer ».
 - Les anciens contacts sont généralement des boîtes générales de tribunaux judiciaires de rattachement, pas des adresses dédiées aux TPE.
-- Les adresses historiques ne sont jamais présentées comme vérifiées ou actives.
+- Les adresses historiques ne sont jamais présentées comme vérifiées ou actives. Au total, 95 tribunaux disposent d'au moins une adresse actuelle ou historique rapprochée (11 actuelles et 90 avec historique, avec recoupements).
 - Les sources et statuts sont conservés dans les fichiers JSON de `data/`.
 
 ## Fonctionnalités
