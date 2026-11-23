@@ -1,0 +1,11 @@
+[
+  {
+    "city": "Pontoise (Val d'Oise)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Pontoise",
+    "type": "TPE – relais du TJ",
+    "email": "tj-pontoise@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  }
+]
