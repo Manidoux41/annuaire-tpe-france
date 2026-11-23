@@ -1,0 +1,110 @@
+[
+  {
+    "city": "Avignon (Vaucluse)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Avignon",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-avignon@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Carpentras (Vaucluse)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Carpentras",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-carpentras@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Mende (Lozère)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Mende",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-mende@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Privas (Ardèche)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Privas",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-privas@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Auxerre (Yonne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Auxerre",
+    "type": "TPE – relais du TJ",
+    "email": "tgi-auxerre@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Bobigny (Seine St Denis)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Bobigny",
+    "type": "TPE – relais du TJ",
+    "email": "tj2-bobigny@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Créteil (Val de Marne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Créteil",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tj-creteil@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Créteil (Val de Marne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Créteil",
+    "type": "TPE – relais du TJ",
+    "email": "tj-creteil@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Evry (Essonne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Evry",
+    "type": "TPE – relais du TJ",
+    "email": "tj1-evry@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Fontainebleau (Seine et Marne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Fontainebleau",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-fontainebleau@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Meaux (Seine et Marne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Meaux",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tj-meaux@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Meaux (Seine et Marne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Meaux",
+    "type": "TPE – relais du TJ",
+    "email": "tj-meaux@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  }
+]
