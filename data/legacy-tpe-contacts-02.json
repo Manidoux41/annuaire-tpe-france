@@ -1,0 +1,110 @@
+[
+  {
+    "city": "Laval (Mayenne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Laval",
+    "type": "TPE – relais du TJ",
+    "email": "tgi-laval@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Le Mans (Sarthe)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Le Mans",
+    "type": "TPE – relais du TJ",
+    "email": "tgi-le-mans@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Saumur (Marne et Loire)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Saumur",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-saumur@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Ajaccio (Corse du Sud)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Ajaccio",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tj-ajaccio@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Bastia (Haute Corse)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Bastia",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-bastia@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Angoulême (Charente)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Angoulême",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-angouleme@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Bordeaux (Gironde)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Bordeaux",
+    "type": "TPE – relais du TJ",
+    "email": "tj-bordeaux@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Libourne (Gironde)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Libourne",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tj-libourne@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Périgueux (Dordogne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Périgueux",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tj-perigueux@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Périgueux (Dordogne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Périgueux",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.covid-19.tj-perigueux@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Argentan (Orne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Argentan",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tgi-argentan@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Caen (Calvados)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Caen",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-caen@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  }
+]
