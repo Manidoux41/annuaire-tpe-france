@@ -1,0 +1,110 @@
+[
+  {
+    "city": "Troyes (Aube)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Troyes",
+    "type": "TPE – relais du TJ",
+    "email": "tj-troyes@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Brest (Finistère)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Brest",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tgi-brest@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Brest (Finistère)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Brest",
+    "type": "TPE – relais du TJ",
+    "email": "tgi-brest@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Quimper (Finistère)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Quimper",
+    "type": "TPE – relais du TJ",
+    "email": "tgi-quimper@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Aurillac (Cantal)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Aurillac",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.aurillac@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Aurillac (Cantal)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Aurillac",
+    "type": "TPE – relais du TJ",
+    "email": "ti-aurillac@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Clermont-Ferrand (Puy de Dôme)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Clermont-Ferrand",
+    "type": "TPE – relais du TJ",
+    "email": "tgi-clermont-ferrand@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Cusset (Allier)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Cusset",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tj-cusset@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Le Puy en Velay (Haute Loire)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Le Puy en Velay",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tgi-le-puy-en-velay@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Montluçon (Allier)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Montluçon",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-montlucon@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Moulins (Allier)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Moulins",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tj-moulins@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Moulins (Allier)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Moulins",
+    "type": "TPE – relais du TJ",
+    "email": "tj1-moulins@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  }
+]
