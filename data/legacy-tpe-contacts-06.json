@@ -1,0 +1,110 @@
+[
+  {
+    "city": "Thionville (Moselle)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Thionville",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tj-thionville@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Béziers (Hérault)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Béziers",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-beziers@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Carcassonne (Aude)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Carcassonne",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-carcassonne@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Montpellier (Hérault)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Montpellier",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tj-montpellier@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Narbonne (Aude)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Narbonne",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-narbonne@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Perpignan (Pyrénées-Orientales)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Perpignan",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-perpignan@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "de Millau",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de de Millau",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-millau@justice.fr)",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Bar-le-Duc (Meuse)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Bar-le-Duc",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.covid19.tj-bar-le-duc@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": ")",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de )",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-briey@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": ")",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de )",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tj-briey@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Verdun (Meuse)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Verdun",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-verdun@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Alès (Gard)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Alès",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-ales@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  }
+]
