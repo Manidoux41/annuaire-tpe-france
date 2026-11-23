@@ -1,0 +1,110 @@
+[
+  {
+    "city": "Agen (Lot et Garonne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Agen",
+    "type": "TPE – relais du TJ",
+    "email": "tgi-agen@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Auch (Gers)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Auch",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tgi-auch@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Cahors (Lot)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Cahors",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-cahors@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Marseille (Bouches du Rhône)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Marseille",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-marseille@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Amiens (Somme)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Amiens",
+    "type": "TPE – relais du TJ",
+    "email": "tj-amiens@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Beauvais (Oise)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Beauvais",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tj-beauvais@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Compiègne (Oise)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Compiègne",
+    "type": "TPE – relais du TJ",
+    "email": "tj-compiegne@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Laon (Aisne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Laon",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-laon@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Saint-Quentin (Aisne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Saint-Quentin",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-st-quentin@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Senlis (Oise)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Senlis",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-senlis@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Soissons (Aisne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Soissons",
+    "type": "TPE – relais du TJ",
+    "email": "tj-soissons@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Angers (Marne et Loire)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Angers",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-angers@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  }
+]
