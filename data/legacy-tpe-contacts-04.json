@@ -1,0 +1,110 @@
+[
+  {
+    "city": "Strasbourg (Bas-Rhin)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Strasbourg",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-strasbourg@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Chalon-sur-Saône (Saône et Loire)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Chalon-sur-Saône",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-chalon-sur-saone@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Dijon (Côte d'Or)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Dijon",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-dijon@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Mâcon (Saône et Loire)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Mâcon",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-macon@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Arras (Pas de Calais)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Arras",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-arras@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Avesnes-sur-Helpe (Nord)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Avesnes-sur-Helpe",
+    "type": "TPE – relais du TJ",
+    "email": "tj1-avesnes-sur-helpe@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Bethune (Pas de Calais)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Bethune",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-bethune@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Bethune (Pas de Calais)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Bethune",
+    "type": "TPE – relais du TJ",
+    "email": "tj1-bethune@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Boulogne-sur-mer (Pas de Calais)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Boulogne-sur-mer",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-boulogne-sur-mer@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Douai (Nord)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Douai",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-douai@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Douai (Nord)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Douai",
+    "type": "TPE – relais du TJ",
+    "email": "tj1-douai@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Dunkerque (Nord)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Dunkerque",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-dunkerque@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  }
+]
