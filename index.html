@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#17324d">
+<title>Annuaire national des tribunaux pour enfants</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--navy:#17324d;--blue:#245b85;--ink:#1d2b3a;--muted:#64748b;--line:#dce4ec;--paper:#f4f7fb;--green:#16704a;--amber:#95600a}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px "DM Sans",sans-serif}.hero{background:linear-gradient(120deg,#17324d,#285d7e);color:white;padding:34px max(22px,calc((100vw - 1380px)/2)) 30px}.hero small{color:#c8d9e7;text-transform:uppercase;letter-spacing:.13em;font-weight:700}.hero h1{font:800 clamp(26px,4vw,39px) Manrope,sans-serif;margin:9px 0}.hero p{margin:0;color:#d8e5ef;max-width:850px;line-height:1.6}.wrap{max-width:1380px;margin:0 auto;padding:24px 22px 60px}.stats{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;margin-top:-2px}.stat,.panel{background:white;border:1px solid var(--line);border-radius:14px;box-shadow:0 3px 12px #18324d08}.stat{padding:17px}.stat b{display:block;font:800 27px Manrope,sans-serif;color:var(--navy)}.stat span{font-size:12px;color:var(--muted)}.panel{margin-top:18px;padding:18px}.toolbar{display:grid;grid-template-columns:minmax(230px,2fr) repeat(3,minmax(140px,1fr)) auto auto;gap:10px;align-items:end}.field label{display:block;font-size:12px;font-weight:700;color:#526274;margin:0 0 6px}.field input,.field select{width:100%;height:42px;border:1px solid #cbd5e1;border-radius:9px;padding:0 11px;font:inherit;background:white;color:var(--ink)}button{height:42px;border:0;border-radius:9px;padding:0 15px;font:700 13px "DM Sans";cursor:pointer;background:var(--navy);color:white}button.secondary{background:#eaf0f6;color:var(--navy);border:1px solid #d5e0ea}.resultline{display:flex;justify-content:space-between;gap:12px;align-items:center;margin:16px 0 10px;color:var(--muted);font-size:13px}.tablewrap{overflow:auto;border:1px solid var(--line);border-radius:11px}table{border-collapse:collapse;width:100%;min-width:1120px;background:white}th{background:#f0f4f8;text-align:left;color:#536477;font-size:11px;text-transform:uppercase;letter-spacing:.05em;padding:12px 11px;position:sticky;top:0}td{padding:12px 11px;border-top:1px solid #edf1f5;vertical-align:top;font-size:13px;line-height:1.45}tbody tr:hover{background:#f9fbfd}.city{font-weight:700;color:var(--navy)}.sub{font-size:11px;color:var(--muted);margin-top:3px}.email a{color:#155b8a;text-decoration:none;overflow-wrap:anywhere}.email a:hover{text-decoration:underline}.tag{display:inline-block;padding:3px 7px;border-radius:5px;background:#e8f3ed;color:var(--green);font-size:10px;font-weight:700;margin:2px 0}.tag.old{background:#fff2d9;color:var(--amber)}.tag.none{background:#eef1f4;color:#697586}.mailitem{margin:0 0 6px}.source a{color:#28658d;text-decoration:none;font-size:12px}.footnote{font-size:12px;color:var(--muted);line-height:1.6;margin-top:15px}.footnote a{color:#28658d}.status{padding:12px 14px;border-radius:9px;background:#edf3f8;color:#40556a;font-size:13px;margin-bottom:14px}.status.error{background:#fff0ed;color:#9d3828}.empty{text-align:center;color:var(--muted);padding:30px}.legacybox{margin-top:18px;padding:14px 16px;background:#fff9eb;border:1px solid #f0dfb9;border-radius:10px;color:#76531a;font-size:12px;line-height:1.55}@media(max-width:950px){.stats{grid-template-columns:repeat(3,1fr)}.toolbar{grid-template-columns:1fr 1fr 1fr}.field.search{grid-column:1/-1}}@media(max-width:580px){.wrap{padding:16px 12px 40px}.hero{padding:26px 16px}.stats{grid-template-columns:repeat(2,1fr)}.toolbar{grid-template-columns:1fr 1fr}.field.search{grid-column:1/-1}.resultline{align-items:flex-start;flex-direction:column}}
+</style>
+</head>
+<body>
+<header class="hero"><small>Répertoire national · France</small><h1>Tribunaux pour enfants</h1><p>Coordonnées, adresses électroniques publiées et contacts historiques des tribunaux pour enfants. Les données récentes et les anciennes adresses sont séparées pour éviter toute confusion sur leur validité.</p></header>
+<main class="wrap">
+<div id="status" class="status">Chargement des coordonnées officielles et des contacts historiques…</div>
+<section class="stats">
+<div class="stat"><b id="s-total">—</b><span>Tribunaux pour enfants</span></div>
+<div class="stat"><b id="s-current">—</b><span>Courriels publiés actuellement</span></div>
+<div class="stat"><b id="s-legacy">—</b><span>Contacts historiques 2020 rapprochés</span></div>
+<div class="stat"><b id="s-combined">—</b><span>Tribunaux avec au moins un contact</span></div>
+<div class="stat"><b id="s-phone">—</b><span>Numéros de téléphone publiés</span></div>
+</section>
+<section class="panel">
+<div class="toolbar">
+<div class="field search"><label for="q">Recherche</label><input id="q" placeholder="Ville, tribunal, adresse, téléphone ou courriel…"></div>
+<div class="field"><label for="dep">Département</label><select id="dep"><option value="">Tous</option></select></div>
+<div class="field"><label for="region">Région</label><select id="region"><option value="">Toutes</option></select></div>
+<div class="field"><label for="mail">Courriels</label><select id="mail"><option value="">Tous les statuts</option><option value="current">Publié actuellement</option><option value="legacy">Ancienne adresse 2020</option><option value="any">Actuel ou historique</option><option value="none">Aucun contact mail</option></select></div>
+<button id="csv">Exporter CSV</button><button id="xls" class="secondary">Exporter Excel</button>
+</div>
+<div class="resultline"><span id="count">Chargement…</span><span>Tri : <select id="sort" style="height:30px;border:1px solid #cbd5e1;border-radius:6px;padding:0 7px"><option value="city">Ville A–Z</option><option value="department">Département</option></select></span></div>
+<div class="tablewrap"><table><thead><tr><th>Tribunal / ville</th><th>Département / région</th><th>Adresse</th><th>Téléphone</th><th>Courriel publié actuellement</th><th>Ancien courriel (2020)</th><th>Source</th></tr></thead><tbody id="rows"><tr><td colspan="7" class="empty">Chargement…</td></tr></tbody></table></div>
+<div class="legacybox"><b>À lire avant d’écrire :</b> les courriels historiques proviennent d’une liste Justice.fr publiée le 23 avril 2020. Ils correspondent généralement à l’adresse générale du tribunal judiciaire de rattachement, et non à une boîte dédiée au tribunal pour enfants. Leur fonctionnement actuel n’est pas garanti : vérifiez-les avant tout envoi. Les adresses récentes proviennent de la fiche officielle Service Public du tribunal pour enfants.</div>
+<div class="footnote" id="sources"></div>
+</section>
+</main>
+<script src="app.js"></script>
+</body></html>
