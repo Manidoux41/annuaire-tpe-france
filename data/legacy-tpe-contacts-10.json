@@ -1,0 +1,110 @@
+[
+  {
+    "city": "Dieppe (Seine-Maritime)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Dieppe",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tgi-dieppe@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Dieppe (Seine-Maritime)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Dieppe",
+    "type": "TPE – relais du TJ",
+    "email": "tgi-dieppe@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Evreux (Eure)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Evreux",
+    "type": "TPE – relais du TJ",
+    "email": "tgi-evreux@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Le Havre (Seine-Maritime)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Le Havre",
+    "type": "TPE – relais du TJ",
+    "email": "tgi-le-havre@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Rouen (Seine-Maritime)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Rouen",
+    "type": "TPE – relais du TJ",
+    "email": "tgi-rouen@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "de Saint Denis de la Réunion",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de de Saint Denis de la Réunion",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.ca-st-denis-reunion@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Castres (Tarn)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Castres",
+    "type": "TPE – relais du TJ",
+    "email": "tj-castres@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Foix (Ariège)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Foix",
+    "type": "TPE – relais du TJ",
+    "email": "tj1-foix@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Montauban (Tarn-et-Garonne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Montauban",
+    "type": "TPE – relais du TJ",
+    "email": "tj1-montauban@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Saint Gaudens (Haute-Garonne)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Saint Gaudens",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.covid-19.tj-st-gaudens@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Chartres (Eure et Loir)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Chartres",
+    "type": "TPE – relais du TJ",
+    "email": "tj1-chartres@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Pontoise (Val d'Oise)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Pontoise",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-pontoise@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  }
+]
