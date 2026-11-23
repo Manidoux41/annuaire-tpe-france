@@ -1,0 +1,110 @@
+[
+  {
+    "city": "Cherbourg en Cotentin (Manche)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Cherbourg en Cotentin",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tgi-cherbourg@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Coutances (Manche)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Coutances",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tgi-coutances@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Lisieux (Calvados)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Lisieux",
+    "type": "TPE – relais du TJ",
+    "email": "accueil.tgi-lisieux@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Albertville (Savoie)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Albertville",
+    "type": "TPE – relais du TJ",
+    "email": "tj-albertville@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Annecy (Haute-Savoie)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Annecy",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-annecy@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Bonneville (Haute-Savoie)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Bonneville",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-bonneville@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Chambery (Savoie)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Chambery",
+    "type": "TPE – relais du TJ",
+    "email": "tj-chambery@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Thonon les Bains (Haute-Savoie)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Thonon les Bains",
+    "type": "TPE – relais du TJ",
+    "email": "tj-thonon-les-bains@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Colmar (Haut-Rhin)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Colmar",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-colmar@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Mulhouse (Haut-Rhin)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Mulhouse",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-mulhouse@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Saverne (Bas-Rhin)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Saverne",
+    "type": "TPE – relais du TJ",
+    "email": "accueil-saverne@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  },
+  {
+    "city": "Saverne (Bas-Rhin)",
+    "name": "Tribunal pour enfants – contact via Tribunal judiciaire de Saverne",
+    "type": "TPE – relais du TJ",
+    "email": "tj1.saverne@justice.fr",
+    "source": "Justice.fr – liste publiée le 23/04/2020",
+    "status": "Courriel général du tribunal judiciaire de rattachement, non dédié au TPE; source 2020 à confirmer",
+    "dedicatedTPE": false
+  }
+]
